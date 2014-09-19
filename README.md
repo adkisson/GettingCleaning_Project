@@ -5,7 +5,7 @@ Course Project for Getting and Cleaning Data
 
 In this repository, you will find:
 
-CodeBook.md - information about the datasets 
+CodeBook.md - information about the datasets
 README.md - this README file
 run_analysis.R - the R code to transform the data from the original to the tidy set proscribed by the course project
 
