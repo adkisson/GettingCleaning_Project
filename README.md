@@ -20,3 +20,9 @@ How to use the run_analysis.R file:
 5. run the script -- you must have the dplyr package on your system
 6. the tidy data set required for the course project will be in the file "summarized_data.txt" in the
 working directory.
+
+
+The script reads the raw data and combines the testing and training data, including header (column) information
+and pre-pending subject and activity information (per the project instructions).   The script further subsets
+the data including only the mean and standard deviation data for each variable.  It also renames the headers
+from the source information to be more easily understandable.
