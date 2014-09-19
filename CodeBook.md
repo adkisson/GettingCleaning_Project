@@ -40,6 +40,7 @@ fBodyGyroMag
 fBodyGyroJerkMag
 
 
+=============
 The transformation of those fields is as such:
 1) adding columns from included data for the subject and activity type
 2) combining the training and testing data into a single table
